@@ -53,4 +53,5 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 -is disigning and refing the input given to al models.helps in accuracy,efficient and quality
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-
+-General Prompt.How do I use Python?
+-Refined Prompt.Show me an example of using Python to read a CSV file and print its contents
